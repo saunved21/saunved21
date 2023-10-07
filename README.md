@@ -1,10 +1,5 @@
--  Hi, I’m @saunved21
-- 👀 I love tech 
-- 🌱 
-- 💞️ I’m looking to collaborate on ...
-- 📫 reach me on linkedin :
+- 🐉 hey guys its me @saunved21
+- 🐨 I love tech and love making and watching games. 
+- 📫 reach me on linkedin : https://www.linkedin.com/in/saunved-palve/
+- 🎮 try my games : https://saunved.itch.io
 
-<!---
-saunved21/saunved21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
